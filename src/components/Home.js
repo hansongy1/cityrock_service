@@ -6,6 +6,7 @@ import Favorite_Fill from "../assets/icon_favorite_fill.png"; // 클릭 후 아�
 import Ex from "../assets/festival2.png";
 
 const CAROUSEL_IMAGES = [
+    // '../assets/main_img1.png',
     'https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/fe1f7525-8451-4fdf-9df6-eb99d5997be6_2.jpg',
     'https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/202a3575-509f-4e34-bbf8-59328d7b89eb_2.jpg',
     'https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/e1c228b3-40a2-4fbd-8b34-f70ac9070c8a_2.jpg',
